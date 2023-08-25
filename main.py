@@ -1,0 +1,1 @@
+print('Hello Python!/n This is first Git Project')
